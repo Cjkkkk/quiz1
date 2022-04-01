@@ -1,0 +1,16 @@
+{
+  "name": "231",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-main.js",
+  "dependencies": {
+    "lezer-python": "^0.13.7",
+    "wabt": "^1.0.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
